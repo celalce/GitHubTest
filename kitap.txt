@@ -1,1 +1,3 @@
 Kitabını ilk cümleleri
+
+kitabın ikinci cümlesi yazıldı.

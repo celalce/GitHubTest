@@ -1,2 +1,3 @@
 cazzzz 1.satir
 cazzz .satır eklendi.
+4.satır vs code ile eklendi ve gönderildi.

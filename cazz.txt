@@ -3,3 +3,4 @@ cazzz .satır eklendi.
 4.satır vs code ile eklendi ve gönderildi.
 github ile eklendi 3 satır
 5.satir github ile 
+6.satır vs code ile yazıldı.

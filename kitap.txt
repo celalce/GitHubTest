@@ -1,1 +1,6 @@
 Kitabını ilk cümleleri
+
+git checkout origin/master yaparak 
+origin master a geçtik
+git fetch origin/master yaparak güncelleme yapıldı
+git pull origin/master yapıldı...

@@ -1,3 +1,4 @@
 Kitabını ilk cümleleri
 kitabın ikinci cümlesi yazıldı..
 tümüne ekleme yaptım. kitap
+VS CODE İLE EKLEME YAPTIM kitap 

@@ -4,3 +4,4 @@ cazzz .satır eklendi.
 github ile eklendi 3 satır
 5.satir github ile 
 6.satır vs code ile yazıldı.
+tümüne ekleme yaptım.. cazzz.txt
